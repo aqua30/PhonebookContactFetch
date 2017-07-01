@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactFetch</string>
+
+    <string name="rationale">This app needs access to your phone contacts.</string>
+    <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+    <string name="setting">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="mms_status_sent">MMS Sent</string>
+    <string name="mms_status_failed">MMS Failed</string>
+
+</resources>

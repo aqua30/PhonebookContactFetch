@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="indigo">#09091a</color>
+    <color name="blue">#1fbad6</color>
+    <color name="light_grey">#c2c2c2</color>
+    <color name="sub_grey">#7a7a80</color>
+    <color name="bluish_grey">#222231</color>
+    <color name="dark_grey">#6b6b76</color>
+    <color name="white">#ffffff</color>
+    <color name="cloud">#fafafa</color>
+    <color name="silver">#c2c2c2</color>
+    <color name="sub_grey_dark">#6b6b76</color>
+    <color name="separator">#909092</color>
+
+</resources>
